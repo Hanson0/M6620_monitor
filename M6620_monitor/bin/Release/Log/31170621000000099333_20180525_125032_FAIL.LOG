@@ -1,0 +1,21 @@
+已获取EID：31170621000000099333
+测试数据上报服务器
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 10.41.16.96:7777
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   在 System.Net.HttpWebRequest.GetRequestStream()
+   在 Production.Server.HttpRequestTask.GetResponse() 位置 E:\C#\M6620_monitor\M6620_monitor\Server\HttpRequestTask.cs:行号 67
+   在 Production.Server.HttpEidUpload.DataGetAndAnalysis(String eid, String procedure, String planCode, String station, Int32 result, String testData, String log) 位置 E:\C#\M6620_monitor\M6620_monitor\Server\HttpEidUpload.cs:行号 63
+   在 Production.ProductionTest.TestFlow.EidUpload(Int32 result, String log) 位置 E:\C#\M6620_monitor\M6620_monitor\ProductionTest\TestFlow.cs:行号 95
+过站失败
+
+########    ###     ####  ##
+##         ## ##     ##   ##
+##        ##   ##    ##   ##
+######   ##     ##   ##   ##
+##       #########   ##   ##
+##       ##     ##   ##   ##
+##       ##     ##  ####  ########
+

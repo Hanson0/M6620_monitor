@@ -1,0 +1,8 @@
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\bin\Release\UnitTestProject1.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\bin\Release\M6620_monitor_V1.2.9Beta.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\bin\Release\Newtonsoft.Json.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\bin\Release\M6620_monitor_V1.2.9Beta.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\obj\Release\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\obj\Release\UnitTestProject1.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\UnitTestProject1\obj\Release\UnitTestProject1.pdb

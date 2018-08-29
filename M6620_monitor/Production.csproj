@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AEB412E7-C2AC-4757-A1B8-54D206CB4974}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Production</RootNamespace>
+    <AssemblyName>M6620_monitor_V1.2.9Beta</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;RELEASE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>dll\NPOI\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>dll\Json\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI">
+      <HintPath>dll\NPOI\NPOI.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OOXML">
+      <HintPath>dll\NPOI\NPOI.OOXML.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXml4Net">
+      <HintPath>dll\NPOI\NPOI.OpenXml4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="NPOI.OpenXmlFormats">
+      <HintPath>dll\NPOI\NPOI.OpenXmlFormats.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllForms\FormBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllForms\FormBoard.Designer.cs">
+      <DependentUpon>FormBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllForms\FormPlanCodeConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllForms\FormPlanCodeConfirm.Designer.cs">
+      <DependentUpon>FormPlanCodeConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllForms\TraySnConfirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllForms\TraySnConfirm.Designer.cs">
+      <DependentUpon>TraySnConfirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Environment\ConfigInfo.cs" />
+    <Compile Include="AllForms\EnumControlWidget.cs" />
+    <Compile Include="FolderMonitor\FolderMonitorHelper.cs" />
+    <Compile Include="FolderMonitor\FolderMonitorInfo.cs" />
+    <Compile Include="Log\LogInfo.cs" />
+    <Compile Include="ProductionTest\ITestFlow.cs" />
+    <Compile Include="ProductionTest\TestFlow.cs" />
+    <Compile Include="ProductionTest\ViewControlers.cs" />
+    <Compile Include="AllForms\FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllForms\FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductionTest\ProductionInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Log\LogHelper.cs" />
+    <Compile Include="Result\ResultInfo.cs" />
+    <Compile Include="Result\ResultJudge.cs" />
+    <Compile Include="Environment\CommonFunction.cs" />
+    <Compile Include="Server\HttpBaseInfoGet.cs" />
+    <Compile Include="Server\HttpEidImeiSnUpload.cs" />
+    <Compile Include="Server\HttpEidUpload.cs" />
+    <Compile Include="Server\HttpImeiAndSnGet.cs" />
+    <Compile Include="Server\HttpImeiSnDecorrelation.cs" />
+    <Compile Include="Server\HttpPackageSmallGet.cs" />
+    <Compile Include="Server\HttpPackageSmallUpload.cs" />
+    <Compile Include="Server\HttpRepair.cs" />
+    <Compile Include="Server\HttpServerInfo.cs" />
+    <Compile Include="Server\HttpRequestTask.cs" />
+    <Compile Include="Server\HttpEidVerify.cs" />
+    <Compile Include="Server\NewHttpEidBindImei.cs" />
+    <Compile Include="Server\NewHttpImeiPrint.cs" />
+    <Compile Include="Server\ReturnCode.cs" />
+    <Compile Include="Windows\Win32API.cs" />
+    <EmbeddedResource Include="AllForms\FormBoard.resx">
+      <DependentUpon>FormBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllForms\FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllForms\FormPlanCodeConfirm.resx">
+      <DependentUpon>FormPlanCodeConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllForms\TraySnConfirm.resx">
+      <DependentUpon>TraySnConfirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

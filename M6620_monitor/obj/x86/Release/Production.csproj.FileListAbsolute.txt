@@ -1,0 +1,100 @@
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\bin\x86\Release\M6620_id_read_write_tool.exe
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\bin\x86\Release\M6620_id_read_write_tool.pdb
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\bin\x86\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\bin\x86\Release\Newtonsoft.Json.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Production.csprojResolveAssemblyReference.cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Interop.BarTender.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Production.csproj.ResolveComReference.cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Production.AllForms.FormBoard.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Production.AllForms.FormMain.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Production.AllForms.FormPlanCodeConfirm.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\M6620_id_read_write_tool.Properties.Resources.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\Production.csproj.GenerateResource.Cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\M6620_id_read_write_tool.exe
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_id_read_write_tool\M6620_id_read_write_tool\obj\x86\Release\M6620_id_read_write_tool.pdb
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\M6620_small_package.exe
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\M6620_small_package.pdb
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\CH341Lib.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\Newtonsoft.Json.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.OOXML.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.OpenXml4Net.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.OpenXmlFormats.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.xml
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.OOXML.xml
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\bin\x86\Release\NPOI.OpenXml4Net.xml
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.csprojResolveAssemblyReference.cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Interop.BarTender.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.csproj.ResolveComReference.cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.AllForms.FormBoard.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.AllForms.FormMain.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.AllForms.FormPlanCodeConfirm.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.AllForms.TraySnConfirm.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.Properties.Resources.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\Production.csproj.GenerateResource.Cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\M6620_small_package.exe
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_small_package\M6620_small_package\obj\x86\Release\M6620_small_package.pdb
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\M6620_monitor.exe
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\M6620_monitor.pdb
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\Newtonsoft.Json.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OOXML.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OpenXml4Net.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OpenXmlFormats.dll
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.xml
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OOXML.xml
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OpenXml4Net.xml
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.csprojResolveAssemblyReference.cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.FormBoard.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.FormMain.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.FormPlanCodeConfirm.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.TraySnConfirm.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.Properties.Resources.resources
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\Production.csproj.GenerateResource.Cache
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\M6620_monitor.exe
+F:\ProjectDevelopment\ManufactureSoftware\CSharp\ChinaMobile_2G\Project\M6620_monitor\M6620_monitor\obj\x86\Release\M6620_monitor.pdb
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\Newtonsoft.Json.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OOXML.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OpenXml4Net.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OpenXmlFormats.dll
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.xml
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OOXML.xml
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\NPOI.OpenXml4Net.xml
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.csprojResolveAssemblyReference.cache
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.FormBoard.resources
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.FormMain.resources
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.FormPlanCodeConfirm.resources
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.AllForms.TraySnConfirm.resources
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.Properties.Resources.resources
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\Production.csproj.GenerateResource.Cache
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\M6620_monitor_V1.1.exe
+E:\C#\M6620_monitor\M6620_monitor\bin\x86\Release\M6620_monitor_V1.1.pdb
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\M6620_monitor_V1.1.exe
+E:\C#\M6620_monitor\M6620_monitor\obj\x86\Release\M6620_monitor_V1.1.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\M6620_monitor_V1.2.9Beta.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\M6620_monitor_V1.2.9Beta.pdb
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\ICSharpCode.SharpZipLib.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\Newtonsoft.Json.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.OOXML.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.OpenXml4Net.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.OpenXmlFormats.dll
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.xml
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.OOXML.xml
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\bin\x86\Release\NPOI.OpenXml4Net.xml
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.csprojResolveAssemblyReference.cache
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.AllForms.FormBoard.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.AllForms.FormMain.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.AllForms.FormPlanCodeConfirm.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.AllForms.TraySnConfirm.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.Properties.Resources.resources
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\Production.csproj.GenerateResource.Cache
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\M6620_monitor_V1.2.9Beta.exe
+E:\2_工作和软件\1_工作存档\01长虹爱联\中移物联 GSM-M6220-北斗STD\M6620_monitor\obj\x86\Release\M6620_monitor_V1.2.9Beta.pdb
